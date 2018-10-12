@@ -17,3 +17,6 @@ go run main.go -c chainpos -l 10000 -secio<p>
 4.对识发现与同步机制还是有点问题，但不妨碍演示，后续改进。<p>
 5.在win10 ubuntu16.04 上验证通过。
 
+
+
+
