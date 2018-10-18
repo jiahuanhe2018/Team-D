@@ -1,5 +1,11 @@
 # Team-D | Zirong Zhang
 
+## Homework Four
+
+Location-based sharding for Omniledger using in sharing economy scenes:
+
+https://github.com/nil-zhang/location-based-consensus/blob/master/README.md
+
 ## Homework Three
 
 https://github.com/nil-zhang/Course
