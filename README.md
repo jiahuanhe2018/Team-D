@@ -1,6 +1,6 @@
 # Team-D | Zirong Zhang
 
-## Howework Five
+## Homework Five
 
 Governmance design:
 
