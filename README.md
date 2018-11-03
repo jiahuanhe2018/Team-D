@@ -1,5 +1,11 @@
 # Team-D | Zirong Zhang
 
+## Homework Six
+
+sharding using IBC:
+
+https://github.com/nil-zhang/sharding-using-ibc
+
 ## Homework Five
 
 Governmance design:
