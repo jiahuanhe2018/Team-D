@@ -8,7 +8,7 @@ https://github.com/nil-zhang/cosmos-dev-notes
 
 ## Homework Seven
 
-peg zone between cosmos 和 Ethereum：
+peg zone between cosmos and Ethereum：
 
 https://github.com/nil-zhang/cosmos-dev-notes/blob/master/peg-zone.md
 
