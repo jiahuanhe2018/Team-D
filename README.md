@@ -1,5 +1,11 @@
 # Team-D | Zirong Zhang
 
+## Midterm
+
+Multicoin based on cosmos-sdk:
+
+https://github.com/nil-zhang/cosmos-dev-notes
+
 ## Homework Seven
 
 peg zone between cosmos 和 Ethereum：
