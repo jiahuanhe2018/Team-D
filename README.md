@@ -1,5 +1,11 @@
 # Team-D | Zirong Zhang
 
+## Homework Seven
+
+peg zone between cosmos 和 Ethereum：
+
+https://github.com/nil-zhang/cosmos-dev-notes/blob/master/peg-zone.md
+
 ## Homework Six
 
 sharding using IBC:
