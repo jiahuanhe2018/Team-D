@@ -1,0 +1,16 @@
+syntax = "proto3";
+package message;
+
+message consensusMsg {
+    int32 type = 1;
+    uint64 seqNo = 2;
+    bytes digest = 3;
+    bytes pubKey = 4;
+    bytes signature = 5;
+}
+
+message peerMsg {
+    int32 type = 1;
+    bytes id = 2;
+    bytes pubKey = 3;
+}

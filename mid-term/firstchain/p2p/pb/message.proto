@@ -1,0 +1,18 @@
+syntax = "proto3";
+package pb;
+
+message Message {
+    string name = 1;
+    bytes data = 2;
+}
+
+// Peer info
+message PeerInfo {
+    string id = 1;
+    repeated string addrs = 2;
+}
+
+// Peer data
+message PeerData {
+    repeated PeerInfo peers = 1;
+}

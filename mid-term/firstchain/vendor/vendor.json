@@ -1,0 +1,192 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "ngH4aj09ytPGupBTeytZMMhZchw=",
+			"path": "firstchain",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "v+03DlmOiUizUz9Wanhjm+UzmAc=",
+			"path": "firstchain/account",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "IrcF6AqQ/ZXWHI9vEeQbdvixldk=",
+			"path": "firstchain/basic",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ZD1j42mLH7xOtGZjS1dHjNL58zs=",
+			"path": "firstchain/boot",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ai2y+JwUtmZq3SyQYlfCC3DHme4=",
+			"path": "firstchain/chain",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2dnlGMk3+1eqLWTd3W939ZcItys=",
+			"path": "firstchain/common",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "tp/r7K/WGGeVAeyWGPlKnAaztRc=",
+			"path": "firstchain/common/cache",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "OFIOU7g13E863lzLnam4TmvWy8U=",
+			"path": "firstchain/consensus",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "UBS5QwmLpxA4X5XJ93NbZUVsLLM=",
+			"path": "firstchain/consensus/blockpool",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "3E75lm414Mv5NLski8yry67qLjA=",
+			"path": "firstchain/consensus/dpos_bft",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "OK2EH3IfFm6cyNlP/h0Z6ea461c=",
+			"path": "firstchain/consensus/dpos_bft/message",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "4Fz7OxmyO1f1swTUBcUkd0ionX0=",
+			"path": "firstchain/consensus/pow",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "fajxqU9ZERPRSNuG/W8Jr+j+bow=",
+			"path": "firstchain/consensus/solo",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "+CKRyRnaS5ebahDAQ0LNE6QW9kM=",
+			"path": "firstchain/consensus/vrf_bft",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "443UyG5j5nerJSFy3/xNGhE46xQ=",
+			"path": "firstchain/event",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jRJtH3jDI4ULBqO900KOhPaE9qs=",
+			"path": "firstchain/executor",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jnl7Jh7Dd0qBicvNHOSHEeOiUFg=",
+			"path": "firstchain/p2p",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "fYOrfo4BoH8jPKCRdgBk7RFDJPk=",
+			"path": "firstchain/p2p/pb",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "/TurWJPJVpDOk+pyFeEsMmpOk/A=",
+			"path": "firstchain/rpc/api",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "mCMfR1txNY58Edo9b/RddkkReO8=",
+			"path": "firstchain/rpc/jsonrpc",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KQLC/Y8NIhwjChAAdefYXkdbuME=",
+			"path": "firstchain/rpc/jsonrpc/handlers",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "wTTWcJZylbJ1WshhFcE/Ktr7NN8=",
+			"path": "firstchain/rpc/utils",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "vksauvAIXv6DigemwYY8V5PwX9g=",
+			"path": "firstchain/state",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "gn0AoGYV9MKZOvd+k6pa6dwjK28=",
+			"path": "firstchain/txpool",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "eSJ2Ay+kV5/hnIEczLU+PYGqtrI=",
+			"path": "firstchain/vm",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "t0qSXla6tnSXTVBjK6j5RkTsXCg=",
+			"path": "firstchain/vm/evm",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "L+Z1czT3rPR8ipjKyzoeS35ZppU=",
+			"path": "firstchain/vm/evm/abi",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "+7551Bdjz5t+UgmfQoLijgBvGiY=",
+			"path": "firstchain/vm/evm/crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "OxFSvh8+NKes8JHGz5mMzHHYjbQ=",
+			"path": "firstchain/vm/evm/crypto/bn256",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "IM7Krk3xPCvsrTrAcnixeQLXvbA=",
+			"path": "firstchain/vm/evm/crypto/bn256/cloudflare",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5pbQdsoIGfTdGRZdC85CEz0fs7Q=",
+			"path": "firstchain/vm/evm/crypto/bn256/google",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "IFDuQc6fnsB0O88jhEi3Enezo0U=",
+			"path": "firstchain/vm/evm/crypto/ecies",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "84P1hsHjVFb0nFLQET/17jmD9Mk=",
+			"path": "firstchain/vm/evm/crypto/secp256k1",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jwb+gFNzVOeXSyZGfAY2WtVnn10=",
+			"path": "firstchain/vm/evm/crypto/sha3",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "FFlgTRXDkuCVztkYSeNyfpPj59E=",
+			"path": "firstchain/vm/evm/hexutil",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "3B9wczNbk9+Jja4jcmqBN4oCNfs=",
+			"path": "firstchain/vm/evm/math",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "XBZ10Du1ZnXTLylPGEZUCfVVAeY=",
+			"path": "firstchain/vm/evm/runtime",
+			"revision": ""
+		}
+	],
+	"rootPath": "firstchain"
+}

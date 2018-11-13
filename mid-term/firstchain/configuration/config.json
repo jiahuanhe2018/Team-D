@@ -1,0 +1,24 @@
+{
+  "consensus": {
+    "engine": "solo",
+    "miner": false,
+    "private_key": "3aba4162c7251c891207b747840551a71939b0de081f85c4e44cf7c13e41daa6",
+    "block_gas_limit": "",
+    "extra_data": ""
+  },
+  "p2p": {
+    "port": 5000,
+    "seeds": [],
+    "route_file_path": "./routefile.dat",
+    "private_key": "CAASpgkwggSiAgEAAoIBAQDW1TdzH0ZxhPKQOW7vNJlOYXiFs9nQuMJCIJ2N1GzlbeRddv36AZk7fz/tqjfJ460nXwAnrVqDlGmEZFiO3PeC0jPcZtDfBFWEIWHBNNurBMvoQuP7qOwuk8cMb62Sdw+vnt7ni24R/JEYtA1326JSvTZpoWPpbEsFXz5uqSoT07BgDTQYddOeBPmvd6aE/aYilia8570zR6XMcA0ge8bA+3S0N0o+Q2QeqIYrhuBLI413u8griRWnnKRkKiXKb3+tzzxb4kRvwmNGH31A2zwD64vhtp0sQ9rZvUUtomzG388ZGhaLG1JxJXuKvUSveZwKJ+IW5aW1N4L57kHtW6mFAgMBAAECggEAMH7NF5W1xyZlwxzT5/eNq93g4P2qa61pXJgUONH9CwV1iYu05Vy7BG1DNxk3osFccwjE9i/xwMYd0577RrSmwsdEobor6EwIKd2HPZ/6/m4EwZdn84U8W39MbYhAPFHYHqLUWpxk6naDInpyl93ilJ7Vy558+VJS1RGc/En/j53Neg9+sOPyLeBAtglhRhOIMAkCsaNJH5p5bh4sHvhARM9CixsDGhJIEVm2ihMRSSHBm62zuQXfojudqTH2/9OBbXo9SE4nizJk+v7YOFpPbVB3wdO+TdMkBt0pYxQzad09e6mdBKii2o5iv64VgMnficuFsdapE9aTM07ySIl7eQKBgQDYkmnPMfSRndPs/lI8aAmhXJCzoswrGnBI+M7HUROkeHdjguUjGlvuhQOUXj76uLP0uOD6fn4sfZmiQmKBVGtUurgnt2/iY3SpSi7rL0W8D4Tpft9mQo79fO6YMFzxK8EVNqHjPxQbkaYngfwbOBrhozhnDsRnOrkKkrvxCDQtewKBgQD98cC6sEMd6DNJ+pWGFhY1GDsLtv0r0CuMKTlWv6dF8keDZRGI9cgRI0CDII5WHaX9FfEi54nGT7ap3a0ytMDDWVRtty4ImJLNYCJ9YvlrMi3bje/jYAsCFQsHYgY1sgUF8FQgXIIDobMUhrcsmb9H0ZS2BBMSwlj4oU1IfoJU/wKBgCxaoAztIDeKaVLKKzFv5TkE6iXAG6xgN8raGg88DZfLjDf3INJ1nYpV94u1WZSjq0ddbcYfjduyxXozulTeYzTxILIRoXpuAACDzuQfxFplm0Tu1PXuf7ZulbbZgM9rtJmRnMobqxSSWcMRnf49GVRIx05j+dlib2846gDNO1JtAoGAEJuE3TC10vjikc3/hVtgbGx/QA7hk8HzdyEjDNdP2zUzFBbCBND+GpDRoUG5zUv3FQwgTwYRbpS7/3Pt5ckIaj4nVV2LdyhzQVcuKkEUyrvnX9pye85GKgayR/NTMKPJzE+hUNR79DzY91iwFgygA9RjA1xU2v82zlvOMBWF9IUCgYA8dbRv9gYkQmTMll5hoRrADR5R2v0q5FCZ3kySA9iYZKd/vGAkEAyslWyWJEnFCQv/z/EcvoPA3GfBOLg2CXJh0RLD0nx63SG2uuG1qQc0tn1vCMbjIq+ASeninwkNxZ1hOpubKToxYN2ZQ0bxlESCyY0LsoNd+Cokeis77pUuoA=="
+  },
+  "txpool": {
+    "max_tx_size": 248000,
+    "price_bump": 20,
+    "batch_capacity": 100,
+    "batch_timeout": ""
+  },
+  "blockpool": {
+    "max_block_size": 1000
+  }
+}
